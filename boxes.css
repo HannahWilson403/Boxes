@@ -12,14 +12,45 @@
 } */
 
 .boxone{
-
     height: 20rem;
     width: 20rem;
     background-color: violet;
-    margin: 10% 30% 10% 40%;
+    margin-left:83%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16pt;
+    }
 
-    /* margin-left: 60%; */
+.boxtwo{
+    height: 20rem;
+    width: 20rem;
+    background-color: cornflowerblue;
+    margin-left:66%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16pt;
+    
 
+}
+
+
+.boxthree{
+    height: 20rem;
+    width: 20rem;
+    background-color: rgb(75, 35, 216);
+    margin-left:49%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16pt; 
 }
 
 
@@ -27,6 +58,7 @@
     height:60px;
     width: 100%;
     background-color: plum;
+   
 }
 
 
