@@ -1,0 +1,35 @@
+.header{
+    height: 80px;
+    width: 100%;
+    background-color: aquamarine;
+}
+
+
+/* body{
+    height: 60%;
+    width: 100%;
+    background-color: white;
+} */
+
+.boxone{
+
+    height: 20rem;
+    width: 20rem;
+    background-color: violet;
+    margin: 10% 30% 10% 40%;
+
+    /* margin-left: 60%; */
+
+}
+
+
+.footer{
+    height:60px;
+    width: 100%;
+    background-color: plum;
+}
+
+
+
+
+
