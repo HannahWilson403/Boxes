@@ -1,0 +1,98 @@
+.header{
+    height: 80px;
+    width: 100%;
+    background-color: aquamarine;
+    margin-bottom: 5%;
+    /* position: fixed; */
+}
+
+nav{
+
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+   width: 97%;
+   height: 80px;
+   background-color: aquamarine;
+   position: fixed;
+}
+
+
+li{
+display: inline;
+}
+
+a{
+    text-decoration: none;
+    color: goldenrod;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 16pt;
+    display: inline-block;
+    padding:1rem;
+
+}
+
+/* body{
+    height: 60%;
+    width: 100%;
+    background-color: white;
+} */
+
+.boxone{
+    height: 20rem;
+    width: 20rem;
+    background-color: violet;
+    /* margin-top: 10%; */
+    margin-left:83%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16pt;
+    }
+
+.boxtwo{
+    height: 20rem;
+    width: 20rem;
+    background-color: cornflowerblue;
+    margin-left:66%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16pt;
+    
+
+}
+
+
+.boxthree{
+    height: 20rem;
+    width: 20rem;
+    background-color: rgb(75, 35, 216);
+    margin-left:49%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16pt; 
+}
+
+
+.footer{
+    height:60px;
+    width: 100%;
+    background-color: plum;
+   
+}
+
+
+
+
+
